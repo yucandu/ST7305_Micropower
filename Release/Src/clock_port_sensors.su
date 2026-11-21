@@ -1,0 +1,13 @@
+../Src/clock_port_sensors.c:49:10:millis_now	0	static
+../Src/clock_port_sensors.c:56:6:delay_ms	0	static
+../Src/clock_port_sensors.c:66:6:i2c_init	8	static
+../Src/clock_port_sensors.c:72:6:i2c_deinit	0	static
+../Src/clock_port_sensors.c:77:6:sleep_pins	32	static
+../Src/clock_port_sensors.c:135:6:wake_pins	40	static
+../Src/clock_port_sensors.c:182:6:i2c_write	16	static
+../Src/clock_port_sensors.c:187:6:i2c_read	16	static
+../Src/clock_port_sensors.c:192:6:i2c_writeread	40	static
+../Src/clock_port_sensors.c:208:6:ds3231_set_epoch	64	static
+../Src/clock_port_sensors.c:270:6:ds3231_begin	48	static
+../Src/clock_port_sensors.c:282:6:ds3231_now	64	static
+../Src/clock_port_sensors.c:320:6:update_sensors	40	static

@@ -1,0 +1,15 @@
+../Src/clock_port_ui.c:350:13:draw_background	24	static
+../Src/clock_port_ui.c:866:13:draw_top_right_current	64	static
+../Src/clock_port_ui.c:368:13:draw_top_left_celsius	56	static
+../Src/clock_port_ui.c:511:13:draw_readouts	200	static
+../Src/clock_port_ui.c:236:7:get_history_value	4	static
+../Src/clock_port_ui.c:269:6:record_history_sample	32	static
+../Src/clock_port_ui.c:852:6:draw_live_current_face	184	static
+../Src/clock_port_ui.c:891:6:draw_clock_face_full	88	static
+../Src/clock_port_ui.c:933:6:draw_clock_face_seconds	32	static
+../Src/clock_port_ui.c:978:6:draw_clock_face_low_power	136	static
+../Src/clock_port_ui.c:1026:6:draw_menu_screen	40	static
+../Src/clock_port_ui.c:1048:6:draw_set_time_screen	40	static
+../Src/clock_port_ui.c:1080:6:draw_chart_screen	192	static
+../Src/clock_port_ui.c:1293:6:draw_max17055_screen	152	static
+../Src/clock_port_ui.c:1444:6:handle_ui	48	static,ignoring_inline_asm

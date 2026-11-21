@@ -1,0 +1,6 @@
+../Src/adc.c:31:6:MX_ADC1_Init	4
+../Src/adc.c:92:6:HAL_ADC_MspInit	3
+../Src/adc.c:131:6:HAL_ADC_MspDeInit	2
+../Src/adc.c:158:13:adc_read_channel	7
+../Src/adc.c:196:13:adc_read_vdda	5
+../Src/adc.c:211:6:solar_voltage_read	4

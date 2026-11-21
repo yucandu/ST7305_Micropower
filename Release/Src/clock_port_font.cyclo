@@ -1,0 +1,4 @@
+../Src/clock_port_font.c:218:10:fb_string_width_u8g2	13
+../Src/clock_port_font.c:230:10:fb_draw_string_u8g2	28
+../Src/clock_port_font.c:247:9:fb_font_glyph_top	11
+../Src/clock_port_font.c:276:6:fb_draw_rle_bitmap	19

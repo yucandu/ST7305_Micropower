@@ -1,0 +1,17 @@
+../Src/clock_port_i2c3.c:115:13:max17055_read_reg16	56	static
+../Src/clock_port_i2c3.c:130:13:max17055_write_reg16	24	static
+../Src/clock_port_i2c3.c:161:13:max17055_force_active	24	static
+../Src/clock_port_i2c3.c:77:6:i2c3_begin	0	static
+../Src/clock_port_i2c3.c:87:6:i2c3_end	0	static
+../Src/clock_port_i2c3.c:276:6:max17055_init_if_needed	56	static
+../Src/clock_port_i2c3.c:293:6:max17055_set_live_mode	56	static
+../Src/clock_port_i2c3.c:309:6:max17055_read_vcell	48	static
+../Src/clock_port_i2c3.c:321:6:max17055_read_avgvcell	48	static
+../Src/clock_port_i2c3.c:333:6:max17055_read_info_regs	64	static
+../Src/clock_port_i2c3.c:382:6:sht40_read	48	static
+../Src/clock_port_i2c3.c:421:7:current_history_get	0	static
+../Src/clock_port_i2c3.c:427:7:current_solar_history_get	0	static
+../Src/clock_port_i2c3.c:433:6:current_history_reset	0	static
+../Src/clock_port_i2c3.c:454:6:vcap_estimator_reset	0	static
+../Src/clock_port_i2c3.c:460:6:vcap_estimator_update	40	static
+../Src/clock_port_i2c3.c:501:6:current_sample_take	48	static

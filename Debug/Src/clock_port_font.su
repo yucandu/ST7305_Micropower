@@ -1,0 +1,9 @@
+../Src/clock_port_font.c:100:13:font_read_info	16	static
+../Src/clock_port_font.c:116:16:font_get_unsigned_bits	24	static
+../Src/clock_port_font.c:133:15:font_get_signed_bits	24	static
+../Src/clock_port_font.c:142:23:font_find_glyph	32	static
+../Src/clock_port_font.c:165:15:font_draw_glyph	72	static
+../Src/clock_port_font.c:218:10:fb_string_width_u8g2	48	static
+../Src/clock_port_font.c:230:10:fb_draw_string_u8g2	72	static
+../Src/clock_port_font.c:247:9:fb_font_glyph_top	48	static
+../Src/clock_port_font.c:276:6:fb_draw_rle_bitmap	48	static
